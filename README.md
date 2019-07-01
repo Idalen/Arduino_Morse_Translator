@@ -1,4 +1,7 @@
 # Morse Translator
+Projedo baseado em arduíno para a disciplina de Eletrônica para Computação do ICMC-USP.
+Este projeto consiste na tradução de strings para código morse.  
+Youtube:https://www.youtube.com/watch?v=BHkhIjG0DKc  
  
 
 # Circuito Do Projeto
